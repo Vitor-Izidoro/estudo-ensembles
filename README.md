@@ -101,3 +101,4 @@ O uso de ensembles para cenários de larga escala ainda é inviável para casos 
 **Pró-Reitoria de Pesquisa Pós-Graduação e Inovação**
 
 Caso queira ler o artigo completo: 
+https://github.com/Vitor-Izidoro/estudo-ensembles/blob/main/relatorio_final.pdf

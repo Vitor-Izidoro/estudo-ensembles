@@ -1,6 +1,6 @@
 # Avaliação do Impacto de Técnicas de Seleção de Instâncias em Ensembles Orientados a Fluxos de Dados
 
-**Relatório Final apresentado ao Programa Institucional de Bolsas de Iniciação Científica (PIBIC) Pró-Reitoria de Pesquisa Pós-Graduação e Inovação da Pontifícia Universidade Católica do Paraná.**
+**Resumo do Relatório Final apresentado ao Programa Institucional de Bolsas de Iniciação Científica (PIBIC) Pró-Reitoria de Pesquisa Pós-Graduação e Inovação da Pontifícia Universidade Católica do Paraná.**
 
 **Orientador: Prof. Dr. Fabricio Enembreck**
 
@@ -90,7 +90,7 @@ O uso de ensembles para cenários de larga escala ainda é inviável para casos 
 
 ---
 
-## Referências
+## Algumas Referências
 
 - Heitor Murilo Gomes, Jean Paul Barddal, Fabrício Enembreck, and Albert Bifet. 2017. A Survey on Ensemble Learning for Data Stream Classification. ACM Comput. Surv. 50, 2 (March 2017), 1-36. [DOI: 10.1145/3054925](https://doi.org/10.1145/3054925)
 - Sérgio Ramírez-Gallego, Bartosz Krawczyk, Salvador García, Michał Woźniak, Francisco Herrera. A Survey on Data Preprocessing for Data Stream Mining: Current Status and Future Directions. Neurocomputing, 2017. [DOI: 10.1016/j.neucom.2017.01.078](https://doi.org/10.1016/j.neucom.2017.01.078)
@@ -99,3 +99,5 @@ O uso de ensembles para cenários de larga escala ainda é inviável para casos 
 
 **Pontifícia Universidade Católica do Paraná**
 **Pró-Reitoria de Pesquisa Pós-Graduação e Inovação**
+
+Caso queira ler o artigo completo: 
